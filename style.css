@@ -1,0 +1,49 @@
+body {background-color: black;}
+h1 {
+    text-align: center;
+    color: orange;
+    background-color: blue;
+
+}
+
+h2 {
+    color: white;
+
+}
+h3 {
+    color: white;
+
+}
+
+#starters_image_div {
+    text-align: center;
+}
+
+.list {
+    color: white;
+}
+
+.pokemon_description {
+    text-align: center;
+    
+}
+
+.each_pokemon_container {
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+#bulbasaur_container {
+    background-color: #779d60;
+}
+
+#charmander_container {
+    background-color: orange;
+}
+
+#squirtle_container {
+    background-color: #042cb1
+}
